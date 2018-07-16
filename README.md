@@ -6,9 +6,9 @@ an android application ,  for IT Job seekers,  using python web crawler technolo
 技术：python网络爬虫，Mysql，Android。
 
 <div align="left">
-  <img src="https://github.com/laceyliao/ourapp/blob/master/效果图/Screenshot_20180716-203237.png" width="162" height="288"/>
-  <img src="https://github.com/laceyliao/ourapp/blob/master/效果图/Screenshot_20180716-203833.png" width="162" height="288"/>
-  <img src="https://github.com/laceyliao/ourapp/blob/master/效果图/Screenshot_20180716-203846.png" width="162" height="288"/>
+  <img src="https://github.com/laceyliao/ourapp/blob/master/效果图/Screenshot_20180716-203237.png" width="216" height="384"/>
+  <img src="https://github.com/laceyliao/ourapp/blob/master/效果图/Screenshot_20180716-203833.png" width="216" height="384"/>
+  <img src="https://github.com/laceyliao/ourapp/blob/master/效果图/Screenshot_20180716-203846.png" width="216" height="384"/>
 </div>
 <div aligh="left">
   <img src="https://github.com/laceyliao/ourapp/blob/master/效果图/Screenshot_20180716-203308.png" width="162" height="288"/>
