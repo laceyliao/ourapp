@@ -11,17 +11,17 @@ an android application ,  for IT Job seekers,  using python web crawler technolo
   <img src="https://github.com/laceyliao/ourapp/blob/master/效果图/Screenshot_20180716-203846.png" width="216" height="384"/>
 </div>
 <div aligh="left">
-  <img src="https://github.com/laceyliao/ourapp/blob/master/效果图/Screenshot_20180716-203308.png" width="162" height="288"/>
-  <img src="https://github.com/laceyliao/ourapp/blob/master/效果图/Screenshot_20180716-203320.png" width="162" height="288"/>  
-  <img src="https://github.com/laceyliao/ourapp/blob/master/效果图/Screenshot_20180716-203344.png" width="162" height="288"/>
+  <img src="https://github.com/laceyliao/ourapp/blob/master/效果图/Screenshot_20180716-203308.png" width="216" height="384"/>
+  <img src="https://github.com/laceyliao/ourapp/blob/master/效果图/Screenshot_20180716-203320.png" width="216" height="384"/>  
+  <img src="https://github.com/laceyliao/ourapp/blob/master/效果图/Screenshot_20180716-203344.png" width="216" height="384"/>
 </div>
 <div align="left">
-  <img src="https://github.com/laceyliao/ourapp/blob/master/效果图/Screenshot_20180716-203629.png" width="162" height="288"/>
-  <img src="https://github.com/laceyliao/ourapp/blob/master/效果图/Screenshot_20180716-203648.png" width="162" height="288"/>
-  <img src="https://github.com/laceyliao/ourapp/blob/master/效果图/Screenshot_20180716-203737.png" width="162" height="288"/>
+  <img src="https://github.com/laceyliao/ourapp/blob/master/效果图/Screenshot_20180716-203629.png" width="216" height="384"/>
+  <img src="https://github.com/laceyliao/ourapp/blob/master/效果图/Screenshot_20180716-203648.png" width="216" height="384"/>
+  <img src="https://github.com/laceyliao/ourapp/blob/master/效果图/Screenshot_20180716-203737.png" width="216" height="384"/>
 </div>
 <div aligh="left">
-  <img src="https://github.com/laceyliao/ourapp/blob/master/效果图/Screenshot_20180716-203752.png" width="162" height="288"/>
-  <img src="https://github.com/laceyliao/ourapp/blob/master/效果图/Screenshot_20180716-203805.png" width="162" height="288"/>
-  <img src="https://github.com/laceyliao/ourapp/blob/master/效果图/Screenshot_20180716-204648.png" width="162" height="288"/>
+  <img src="https://github.com/laceyliao/ourapp/blob/master/效果图/Screenshot_20180716-203752.png" width="216" height="384"/>
+  <img src="https://github.com/laceyliao/ourapp/blob/master/效果图/Screenshot_20180716-203805.png" width="216" height="384"/>
+  <img src="https://github.com/laceyliao/ourapp/blob/master/效果图/Screenshot_20180716-204648.png" width="216" height="384"/>
   </div>
