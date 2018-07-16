@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/activity_change_pass"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    tools:context="com.example.beijing.qzszg.ChangePass">
+    <EditText
+        android:id="@+id/new_pass"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:inputType="textPassword"
+        android:hint="请新的输入6-16位密码"
+        android:layout_centerHorizontal="true"
+        android:gravity="center"
+        android:ems="10"
+        android:layout_marginTop="150dp"
+        android:textSize="18sp"
+        android:maxLines="1"/>
+    <EditText
+        android:id="@+id/new_pass2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:inputType="textPassword"
+        android:hint="请再次输入密码"
+        android:layout_centerHorizontal="true"
+        android:gravity="center"
+        android:ems="10"
+        android:layout_below="@id/new_pass"
+        android:layout_marginTop="10dp"
+        android:textSize="18sp"
+        android:maxLines="1"/>
+    <Button
+        android:id="@+id/change_verify"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/new_pass2"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="10dp"
+        android:text="确认"/>
+
+</RelativeLayout>
